@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atagoker
 - 👀 I’m interested in Sports, Coding and Bass Guitar
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently improving my Python and MATLAB knowledge
 - 📫 How to reach me atagoker@gmail.com
 
 <!---
